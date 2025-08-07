@@ -1,6 +1,6 @@
 # 🚗 CarRental – MERN Stack Car Booking Website
 
-**Live Demo:** https://car-rental-peach-ten.vercel.app/ 
+**Live Demo:** https://car-rental-peach-ten.vercel.app/ <br/>
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Context API
 
 CarRental is a **full-stack Car Rental Booking App** built using the **MERN Stack**. This project features user-friendly car listing and booking functionalities, secure authentication, and a robust admin panel for managing bookings and vehicles. It is designed to be scalable, responsive, and production-ready.
